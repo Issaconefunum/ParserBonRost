@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\apitestparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\apitestparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\services\\parserservice\\parserworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\services\\parserservice\\parserworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\services\\parserservice\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\services\\parserservice\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\services\\parserservice\\parser\\bonrostparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\services\\parserservice\\parser\\bonrostparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\services\\parserservice\\htmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\services\\parserservice\\htmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\models\\card\\bonrostcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\models\\card\\bonrostcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\services\\parserservice\\iparserworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\services\\parserservice\\iparserworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\configurationmanager\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\configurationmanager\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\apitestparser.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\apitestparser.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\configurationmanager\\parsersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\configurationmanager\\parsersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|c:\\users\\danya\\source\\repos\\apitestparser\\apitestparser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7917F41-8301-4EE0-BF12-8A973E282D57}|ApiTestParser\\ApiTestParser.csproj|solutionrelative:apitestparser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Models\\App.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Models\\App.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Models\\App.cs",
+              "RelativeToolTip": "ApiTestParser\\Models\\App.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:23:39.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IParserWorker.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\IParserWorker.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Services\\ParserService\\IParserWorker.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\IParserWorker.cs",
+              "RelativeToolTip": "ApiTestParser\\Services\\ParserService\\IParserWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:56:01.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "ApiTestParser\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:16:50.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ConfigurationManager\\Configurations.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\ConfigurationManager\\Configurations.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ConfigurationManager\\Configurations.cs",
+              "RelativeToolTip": "ApiTestParser\\ConfigurationManager\\Configurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:00:28.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Program.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Program.cs",
+              "RelativeToolTip": "ApiTestParser\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:40:47.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\HtmlLoader.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Services\\ParserService\\HtmlLoader.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\HtmlLoader.cs",
+              "RelativeToolTip": "ApiTestParser\\Services\\ParserService\\HtmlLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:51:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BonrostParser.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\Parser\\BonrostParser.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Services\\ParserService\\Parser\\BonrostParser.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\Parser\\BonrostParser.cs",
+              "RelativeToolTip": "ApiTestParser\\Services\\ParserService\\Parser\\BonrostParser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:25:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiTestParser\\appsettings.json",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\appsettings.json",
+              "RelativeToolTip": "ApiTestParser\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T10:01:46.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParserWorker.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\ParserWorker.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Services\\ParserService\\ParserWorker.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\ParserWorker.cs",
+              "RelativeToolTip": "ApiTestParser\\Services\\ParserService\\ParserWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:54:26.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BonrostCard.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Models\\Card\\BonrostCard.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Models\\Card\\BonrostCard.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Models\\Card\\BonrostCard.cs",
+              "RelativeToolTip": "ApiTestParser\\Models\\Card\\BonrostCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:13:47.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiTestParser.http",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ApiTestParser.http",
+              "RelativeDocumentMoniker": "ApiTestParser\\ApiTestParser.http",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ApiTestParser.http",
+              "RelativeToolTip": "ApiTestParser\\ApiTestParser.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-21T09:40:59.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ConfigurationManager\\ParserSettings.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\ConfigurationManager\\ParserSettings.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ConfigurationManager\\ParserSettings.cs",
+              "RelativeToolTip": "ApiTestParser\\ConfigurationManager\\ParserSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:01:04.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiTestParser.csproj",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ApiTestParser.csproj",
+              "RelativeDocumentMoniker": "ApiTestParser\\ApiTestParser.csproj",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\ApiTestParser.csproj",
+              "RelativeToolTip": "ApiTestParser\\ApiTestParser.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T09:50:34.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IParser.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\IParser.cs",
+              "RelativeDocumentMoniker": "ApiTestParser\\Services\\ParserService\\IParser.cs",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\ApiTestParser\\ApiTestParser\\Services\\ParserService\\IParser.cs",
+              "RelativeToolTip": "ApiTestParser\\Services\\ParserService\\IParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:57:11.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
